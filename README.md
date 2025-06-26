@@ -21,5 +21,3 @@ This repository contains a machine learning pipeline for predicting customer chu
   - Recall for churn: 83.16%
   - Precision for churn: 46.47%
   - Confusion Matrix: `[[481, 91], [16, 79]]`
-
-## Installation
